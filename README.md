@@ -1,2 +1,3 @@
 ### I'm Dart 🍃
-Building https://gamedaynflbot.com
+Building communities @ https://discord.gg/ninjago
+Discord Partner since 2022
